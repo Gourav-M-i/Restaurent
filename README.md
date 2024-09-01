@@ -99,7 +99,7 @@ This is a full-stack restaurant web application built with a React frontend and 
 
 ### Screenshots
 
-![Home](./screenshots/home.jpg)
-![Dish](./screenshots/dish.jpg)
-![Dishes](./screenshots/dishes.jpg)
-![Add Dish](./screenshots/add_dish.jpg)
+![Home](screenshots/home.png)
+![Dish](screenshots/dishes.png)
+![Dishes](screenshots/dishes.png)
+![Add Dish](screenshots/add_dish.png)
